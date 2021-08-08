@@ -1,4 +1,9 @@
 # Soft UI
+
+<p align="center">
+<img src="https://imgur.com/h9yjSAv.png" width = 750>
+</p>
+
 ```
 import 'package:flutter/material.dart';
 
