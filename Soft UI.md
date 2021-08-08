@@ -4,7 +4,7 @@
 <img src="https://imgur.com/h9yjSAv.png" width = 750>
 </p>
 
-```
+```dart
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
